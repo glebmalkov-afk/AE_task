@@ -57,7 +57,6 @@ This pack contains **two tasks**:
    - Click Install → Restart IDE.
    - If prompted, sign in with your trial account; verify AI Pro is active.
 3. **Prompt Junie** to scaffold a minimal Snake game with:
-   - A simple UI (Swing/JavaFX/Compose for Desktop acceptable).
    - Keyboard controls for direction.
    - Food spawning and score increment.
    - Game over when the snake hits itself or a wall.
