@@ -12,6 +12,7 @@ This pack contains **two tasks**:
 
 ### Prerequisites
 - IntelliJ IDEA Ultimate installed.
+- Tutorial: https://drive.google.com/file/d/1sue0fRLnSi8xioBN1awJ0eSnY5-W_XsJ/view
 
 ### What to do
 1. **Open & Run**
