@@ -35,10 +35,6 @@ This pack contains **two tasks**:
      ```
    - Add one more line that prints the year (hard-coded is fine, e.g., `System.out.println("2025");`).
 
-### Deliverables
-- A **screen recording** showing steps.
-- Your final **Main.java** (or the whole project as a zip).
-
 > Tip: If you don’t have a JDK configured, let the IDE guide you. IntelliJ: File → Project Structure → SDK → Download JDK → select the supported JDK. Download, Click Apply → Ok. No tests/build tools/plugins required for this task.
 ![img.png](img.png)
 ![img_1.png](img_1.png)
@@ -66,11 +62,3 @@ This pack contains **two tasks**:
    - Game over when the snake hits itself or a wall.
 4. **Run the game.** Confirm it launches and responds to input.
 6. **(Optional polish)**: Add a README.md (1–2 paragraphs) describing what you asked Junie, what it generated, and the improvement you added.
-
-### Deliverables
-- A **2–3 minute screen recording** showing:
-  - Opening Junie and your initial prompt.
-  - The first runnable version.
-  - The improvement you requested/implemented.
-- A zipped project folder containing the final code.
-- (Optional) Your brief README.md with prompt(s) used and what changed.
