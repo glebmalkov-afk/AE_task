@@ -18,8 +18,10 @@ This pack contains **two tasks**:
 1. **Open & Run**
    - Clone the repository:
      ```
-     git clone https://github.com/glebmalkov-afk/AE_task
+     https://github.com/glebmalkov-afk/AE_task
      ```
+>  ![img_3.png](img_3.png)
+   ![img_4.png](img_4.png)
    - Open the project in **IntelliJ IDEA**.
    - Run the `Main` class and confirm it prints:
      ```
@@ -38,7 +40,9 @@ This pack contains **two tasks**:
 - Your final **Main.java** (or the whole project as a zip).
 
 > Tip: If you don’t have a JDK configured, let the IDE guide you. IntelliJ: File → Project Structure → SDK → Download JDK → select the supported JDK. Download, Click Apply → Ok. No tests/build tools/plugins required for this task.
-
+![img.png](img.png)
+![img_1.png](img_1.png)
+![img_2.png](img_2.png)
 ---
 
 ## Task 2 — Advanced: Build a Minimal Snake Game with Junie (AI)
