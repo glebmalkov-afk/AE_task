@@ -11,7 +11,7 @@ This pack contains **two tasks**:
 **Goal:** Show that you can open a tiny Java project in IntelliJ IDEA, run it, make two trivial edits, and use one core IDE feature.
 
 ### Prerequisites
-- IntelliJ IDEA Ultimate installed.
+- IntelliJ IDEA Community Edition installed.
 - Tutorial: https://drive.google.com/file/d/1sue0fRLnSi8xioBN1awJ0eSnY5-W_XsJ/view
 
 ### What to do
