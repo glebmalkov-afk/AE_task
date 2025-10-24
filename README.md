@@ -22,12 +22,18 @@ This pack contains **two tasks**:
      ```
 >  ![img_3.png](img_3.png)
    ![img_4.png](img_4.png)
+
+> Tip #1: If you don’t have Git installed and configured, then:
+> 1. Open the repo page → click <strong>Code</strong> → <strong>Download ZIP</strong>.
+> 2. Unzip it locally.
+> 3. In IntelliJ IDEA: <strong>File → Open…</strong> → select the unzipped project folder.
+> 4. Run <code>Main</code>.
+
    - Open the project in **IntelliJ IDEA**.
    - Run the `Main` class and confirm it prints:
      ```
      Hello, World!
      ```
-
 2. **Make Two Tiny Changes**
    - Change the message to **exactly**:
      ```
@@ -35,7 +41,8 @@ This pack contains **two tasks**:
      ```
    - Add one more line that prints the year (hard-coded is fine, e.g., `System.out.println("2025");`).
 
-> Tip: If you don’t have a JDK configured, let the IDE guide you. IntelliJ: File → Project Structure → SDK → Download JDK → select the supported JDK. Download, Click Apply → Ok. No tests/build tools/plugins required for this task.
+> Tip #2: If you don’t have a JDK configured, let the IDE guide you. IntelliJ: File → Project Structure → SDK → Download
+> JDK → select the supported JDK. Download, Click Apply → Ok. No tests/build tools/plugins required for this task.
 ![img.png](img.png)
 ![img_1.png](img_1.png)
 ![img_2.png](img_2.png)
@@ -56,6 +63,9 @@ This pack contains **two tasks**:
    - Search “Junie”.
    - Click Install → Restart IDE.
    - If prompted, sign in with your trial account; verify AI Pro is active.
+
+> Tip #3: You may request for a trial account from a hiring manager or any other person involved in the interviewing
+> process.
 3. **Prompt Junie** to scaffold a minimal Snake game with:
    - Keyboard controls for direction.
    - Food spawning and score increment.
